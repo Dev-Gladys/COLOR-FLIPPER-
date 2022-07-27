@@ -1,0 +1,41 @@
+#label{
+  text-align: center;
+  margin-left: 200px;
+}
+
+
+#colorHex{
+  width: 300px;
+  font-family: fantasy, sans-serif;
+  height: 40px;
+  font-size: 25px;
+  padding: 10px;
+  background-color: black;
+  color: white;
+  position:absolute;
+  top:200px;
+  left:100px;
+
+bor
+}
+.myFrame{
+width: 500px;
+height: 500px;
+display: block;
+background-color: green;
+border-radius: 100px;
+border: 1px solid;
+position: relative;
+left: 100px;
+
+}
+
+#clickBtn{
+  border:  1px solid;
+  color: white;
+  position:absolute;
+  top:350px;
+  right:200px;
+padding: 10px 10px ;
+background-color: gold;
+}
